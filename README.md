@@ -6,20 +6,23 @@ Review inline comments inside of
 ## Running the Demo
 Create a mongo database called "heroes"
 Run this command in your terminal
-'''
+
+```
 mongo heroes
-'''
+```
 
 Inside the mongo shell run these commands
-'''
+
+```
 db.heroes.insert({name: "Batman",health: 5,attack: 5, image:"batman.jpg", text:["Battlecry: Talks in a raspy voice","Deathrattle: Returns as Ben Affleck"]})
 db.herose.insert({name: "Superman",health: 100,attack: 100, image:"superman.jpg", text:["Charge","Battlecry: Wins you the game because he's mad overpowered"]})
-'''
+```
 
 Now switch back to your terminal and run from inside the project directory.
-'''
+
+```
 nodejs index.js
-''''
+```
 
 Now visit localhost:5000/?=Batman in your browser.
 
