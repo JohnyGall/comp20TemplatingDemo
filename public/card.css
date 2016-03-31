@@ -1,0 +1,41 @@
+#header{
+        text-align: center;
+}
+#heroContainer{
+        margin-left: 35%;
+        margin-right: 25%;
+        width: 400px;
+        height: 575px;
+        background-color: gray;
+}
+
+#nameContainer{
+        width: 100%;
+        text-align: center;
+}
+
+#picContainer{
+        width:100%;
+        text-align: center;
+        padding-bottom: 10px;
+        border-width: medium;
+        border-color: black;
+}
+
+#attack{
+        text-align: center;
+        float:left;
+        background-color: yellow;
+        padding-bottom: 10px;
+}
+
+#health{
+        text-align: center;
+        float:right;
+        background-color: red;
+        padding-bottom: 10px;
+}
+
+#text{
+        text-align: center;
+}

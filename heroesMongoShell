@@ -1,0 +1,2 @@
+{name: "Batman",health: 5,attack: 5, image:"batman.jpg", text:["Battlecry: Talks in a raspy voice","Deathrattle: Returns as Ben Affleck"]}
+{name: "Superman",health: 100,attack: 100, image:"superman.jpg", text:["Charge","Battlecry: Wins you the game because he's mad overpowered"]}

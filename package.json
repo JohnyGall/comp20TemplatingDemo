@@ -1,0 +1,15 @@
+{
+        "name": "Superhero-Trading-Cards",
+        "version": "1.0.0",
+        "description": "Templating example for comp 20",
+        "author": "John Gallagher - johny.gallagher@gamil.com",
+
+        "dependencies":
+        {
+                "express": "latest",
+                "jade":"latest",
+                "body-parser": "latest",
+                "mongodb": "latest"
+        }
+
+}

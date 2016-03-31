@@ -1,0 +1,17 @@
+include common/title.jade
+doctype html( lang="en" )
+body
+#heroContainer
+        #nameContainer
+                h1= name
+        #picContainer
+                img(src = pic)
+        #healthAttackContainer
+                #health
+                        p.health= health
+
+                #attack
+                        p.attack= attack
+        #text
+                -for(var i=0; i< text.length; i++)
+                        p= text[i]
