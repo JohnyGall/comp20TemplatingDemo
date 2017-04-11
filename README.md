@@ -15,7 +15,7 @@ Inside the mongo shell run these commands
 
 ```
 db.heroes.insert({name: "Batman",health: 5,attack: 5, image:"batman.jpg", text:["Battlecry: Talks in a raspy voice","Deathrattle: Returns as Ben Affleck"]})
-db.herose.insert({name: "Superman",health: 100,attack: 100, image:"superman.jpg", text:["Charge","Battlecry: Wins you the game because he's mad overpowered"]})
+db.heroes.insert({name: "Superman",health: 100,attack: 100, image:"superman.jpg", text:["Charge","Battlecry: Wins you the game because he's mad overpowered"]})
 ```
 
 Now switch back to your terminal and run from inside the project directory.
