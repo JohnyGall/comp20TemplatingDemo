@@ -1,7 +1,5 @@
 # Comp 20 Templating Demo
-A quick demo of Pug (formally Jade) templating for Comp 20 at Tufts. This is a mock superhero card game, where users can view cards for heroes.
-
-try visiting localhost:5000/?=Batman
+A quick demo of Pug (formally Jade) templating for Comp 20 at Tufts. This is a mock superhero card game, where users can view cards for super heroes.
 
 
 ## Running the Demo
