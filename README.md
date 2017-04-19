@@ -24,7 +24,7 @@ Now switch back to your terminal and run from inside the project directory.
 nodejs index.js
 ```
 
-Now visit localhost:5000/?=Batman in your browser.
+Now visit localhost:5000/?hero=Batman in your browser.
 
 
 ## Things to Try:
