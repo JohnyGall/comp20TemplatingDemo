@@ -1,9 +1,11 @@
 # Comp 20 Templating Demo
-A quick demo of jade templating for Comp 20 at Tufts. This is a mock superhero card game, where users can view cards for heroes.
+A quick demo of Pug (formally Jade) templating for Comp 20 at Tufts. This is a mock superhero card game, where users can view cards for heroes.
+
 try visiting localhost:5000/?=Batman
-Review inline comments inside of
+
 
 ## Running the Demo
+Clone this repo
 Create a mongo database called "heroes"
 Run this command in your terminal
 
@@ -18,7 +20,7 @@ db.heroes.insert({name: "Batman",health: 5,attack: 5, image:"batman.jpg", text:[
 db.heroes.insert({name: "Superman",health: 100,attack: 100, image:"superman.jpg", text:["Charge","Battlecry: Wins you the game because he's mad overpowered"]})
 ```
 
-Now switch back to your terminal and run from inside the project directory.
+Now run this example from inside the project directory.
 
 ```
 nodejs index.js
