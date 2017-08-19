@@ -1,7 +1,7 @@
 # Comp 20 Templating Demo
 A quick demo of Pug (formally Jade) templating using a Node.js back end for [Comp 20 at Tufts](http://www.cs.tufts.edu/comp/20/). This is a mock superhero card game, where users can view cards for superheroes.
 
-The slides from the guest lecture can be found [here.](https://docs.google.com/presentation/d/17fevD0rNk_sgFOwMpxgXnlP5EH4YmOr9zngX-UV4r24/edit#slide=id.g13a8e06411_0_1583)
+The slides from the guest lecture can be found [here.](https://docs.google.com/presentation/d/17fevD0rNk_sgFOwMpxgXnlP5EH4YmOr9zngX-UV4r24/edit#slide=id.p)
 
 
 ## Running the Demo
